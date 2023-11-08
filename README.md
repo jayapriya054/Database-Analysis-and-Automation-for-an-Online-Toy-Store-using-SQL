@@ -15,6 +15,7 @@ The objective is to generate trends on website source traffic, website performan
 
 ## Traffic Source Analysis
 Traffic Analysis helps to understanding where the customers are coming from and which channels (email, social,search,direct) are driving the highest quality traffic
+
 USE CASES:
 1.Analysing search data and investing in the campaigns that gives stronges CVR conversion rates.
 2.Comparing user behaviour pattern across traffic sources to inform creative strategy.
@@ -22,6 +23,7 @@ USE CASES:
 
 ## Website Performance Analysis
 Website Performance analysis is performed to understand which pages are seen the most by users, to identify where to focus on improving the business
+
 USE CASES:
 1. Fingind most viewed pages by the customers.
 2. Identifying the most common entry pages to the website- the first thing a users sees.
@@ -29,6 +31,7 @@ USE CASES:
 
 ## Product Sales Analysis
 To analyse how each product contribute to the business and how product launches impact the overall portfolio.
+
 USE CASES:
 1.Analysing sales and revenue by products.
 2.Monitoring the impact of adding a new product to product portfolio.
@@ -36,6 +39,7 @@ USE CASES:
 
 ## User Analysis 
 To understand user behaviour and identify some most valueable customers.
+
 USE CASES:
 1.Analysing repeat activity to see how often customers are coming back to visit your site.
 2.Understanding which channel customes use when they come back.
