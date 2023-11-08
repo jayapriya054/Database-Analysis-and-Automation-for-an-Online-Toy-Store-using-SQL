@@ -45,6 +45,7 @@ USE CASES:
 2. Understanding which channel customes use when they come back.
 
 ## [Company's Performance Data Analysis](https://github.com/jayapriya054/Ecommerce-and-Web-Analytics-using-SQL/blob/main/3.Company's%20Performance%20data%20Analysis%20.sql)
+USE CASES:
 1. To tell the story of the company growth using trended performance data.
 2. Analyse current performance and use available data to assess upcoming opportunities.
 
