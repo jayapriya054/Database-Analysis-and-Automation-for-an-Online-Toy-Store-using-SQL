@@ -17,15 +17,15 @@ The objective is to generate trends on website source traffic, website performan
 Traffic Analysis helps to understanding where the customers are coming from and which channels (email, social,search,direct) are driving the highest quality traffic
 
 USE CASES:
-1.Analysing search data and investing in the campaigns that gives stronges CVR conversion rates.
-2.Comparing user behaviour pattern across traffic sources to inform creative strategy.
-3.Identifying opportunities to identify the wasted spend by company /sacel high conversion traffic.
+1. Analysing search data and investing in the campaigns that gives stronges CVR conversion rates.
+2. Comparing user behaviour pattern across traffic sources to inform creative strategy.
+3. Identifying opportunities to identify the wasted spend by company /sacel high conversion traffic.
 
 ## Website Performance Analysis
 Website Performance analysis is performed to understand which pages are seen the most by users, to identify where to focus on improving the business
 
 USE CASES:
-1. Fingind most viewed pages by the customers.
+1. Finding most viewed pages by the customers.
 2. Identifying the most common entry pages to the website- the first thing a users sees.
 3. To understand how those pages perform the business objectives for above two cases.
 
@@ -33,16 +33,16 @@ USE CASES:
 To analyse how each product contribute to the business and how product launches impact the overall portfolio.
 
 USE CASES:
-1.Analysing sales and revenue by products.
-2.Monitoring the impact of adding a new product to product portfolio.
-3.Watching product sales trends to understand overall health of business.
+1. Analysing sales and revenue by products.
+2. Monitoring the impact of adding a new product to product portfolio.
+3. Watching product sales trends to understand overall health of business.
 
 ## User Analysis 
 To understand user behaviour and identify some most valueable customers.
 
 USE CASES:
-1.Analysing repeat activity to see how often customers are coming back to visit your site.
-2.Understanding which channel customes use when they come back.
+1. Analysing repeat activity to see how often customers are coming back to visit your site.
+2. Understanding which channel customes use when they come back.
 
 ## Company's Performance Data Analysis
 1.To tell the story of the company growth using trended performance data.
