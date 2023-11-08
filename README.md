@@ -5,13 +5,13 @@ The project involves advanced SQL queries to explore, analyze and optimize Ecomm
 The objective is to generate trends on website source traffic, website performance, company's performance, product analysis, user analysis and the use cases associated with them to optimize the Ecommerce database for efficient website performance and also improve the sales with the help of the insights drawn.
 
 ## Technologies Used
-1.MySQL
-2.MySQL Workbench
-3.Joins
-4.Temporary tables
-5.Aggregate functions
-6.Triggers
-7.SQL views
+1. MySQL
+2. MySQL Workbench
+3. Joins
+4. Temporary tables
+5. Aggregate functions
+6. Triggers
+7. SQL views
 
 ## Traffic Source Analysis
 Traffic Analysis helps to understanding where the customers are coming from and which channels (email, social,search,direct) are driving the highest quality traffic
