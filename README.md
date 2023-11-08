@@ -14,10 +14,10 @@ The objective is to generate trends on website source traffic, website performan
 7. SQL views
 
 ## [Traffic Source Analysis](https://github.com/jayapriya054/Ecommerce-and-Web-Analytics-using-SQL/blob/main/1.Traffic%20soruce%20analysis.sql)
-Traffic Analysis helps to understanding where the customers are coming from and which channels (email, social,search,direct) are driving the highest quality traffic
+Traffic Analysis helps to understanding where the customers are coming from and which channels (email, social,search,direct) are driving the highest quality traffic.
 
 USE CASES:
-1. Analysing search data and investing in the campaigns that gives stronges CVR conversion rates.
+1. Analysing search data and investing the campaigns that gives strongest CVR conversion rates.
 2. Comparing user behaviour pattern across traffic sources to inform creative strategy.
 3. Identifying opportunities to identify the wasted spend by company /scale high conversion traffic.
 
@@ -25,7 +25,7 @@ USE CASES:
 Website Performance analysis is performed to understand which pages are seen the most by users, to identify where to focus on improving the business
 
 USE CASES:
-1. Finding most viewed pages by the customers.
+1. Finding the most viewed pages by the customers.
 2. Identifying the most common entry pages to the website- the first thing a users sees.
 3. To understand how those pages perform the business objectives for above two cases.
 
@@ -33,7 +33,7 @@ USE CASES:
 To analyse how each product contribute to the business and how product launches impact the overall portfolio.
 
 USE CASES:
-1. Analysing sales and revenue by products.
+1. Analysing the sales and revenue by products.
 2. Monitoring the impact of adding a new product to product portfolio.
 3. Watching product sales trends to understand overall health of business.
 
