@@ -13,7 +13,7 @@ The objective is to generate trends on website source traffic, website performan
 6. Triggers
 7. SQL views
 
-## Traffic Source Analysis
+## [Traffic Source Analysis](https://github.com/jayapriya054/Ecommerce-and-Web-Analytics-using-SQL/blob/main/1.Traffic%20soruce%20analysis.sql)
 Traffic Analysis helps to understanding where the customers are coming from and which channels (email, social,search,direct) are driving the highest quality traffic
 
 USE CASES:
