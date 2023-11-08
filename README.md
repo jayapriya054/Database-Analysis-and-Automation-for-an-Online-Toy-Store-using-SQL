@@ -21,7 +21,7 @@ USE CASES:
 2. Comparing user behaviour pattern across traffic sources to inform creative strategy.
 3. Identifying opportunities to identify the wasted spend by company /sacel high conversion traffic.
 
-## Website Performance Analysis
+## [Website Performance Analysis](https://github.com/jayapriya054/Ecommerce-and-Web-Analytics-using-SQL/blob/main/2.Website%20performance%20Analysis.sql)
 Website Performance analysis is performed to understand which pages are seen the most by users, to identify where to focus on improving the business
 
 USE CASES:
@@ -29,7 +29,7 @@ USE CASES:
 2. Identifying the most common entry pages to the website- the first thing a users sees.
 3. To understand how those pages perform the business objectives for above two cases.
 
-## Product Sales Analysis
+## [Product Sales Analysis](https://github.com/jayapriya054/Ecommerce-and-Web-Analytics-using-SQL/blob/main/4.Product%20Analysis.sql)
 To analyse how each product contribute to the business and how product launches impact the overall portfolio.
 
 USE CASES:
@@ -37,14 +37,14 @@ USE CASES:
 2. Monitoring the impact of adding a new product to product portfolio.
 3. Watching product sales trends to understand overall health of business.
 
-## User Analysis 
+## [User Analysis](https://github.com/jayapriya054/Ecommerce-and-Web-Analytics-using-SQL/blob/main/5.User%20Analysis.sql)
 To understand user behaviour and identify some most valueable customers.
 
 USE CASES:
 1. Analysing repeat activity to see how often customers are coming back to visit your site.
 2. Understanding which channel customes use when they come back.
 
-## Company's Performance Data Analysis
+## [Company's Performance Data Analysis](https://github.com/jayapriya054/Ecommerce-and-Web-Analytics-using-SQL/blob/main/3.Company's%20Performance%20data%20Analysis%20.sql)
 1.To tell the story of the company growth using trended performance data.
 2.Analyse current performance and use available data to assess upcoming opportunities.
 
