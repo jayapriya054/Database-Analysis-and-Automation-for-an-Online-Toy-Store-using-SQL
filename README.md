@@ -45,8 +45,8 @@ USE CASES:
 2. Understanding which channel customes use when they come back.
 
 ## [Company's Performance Data Analysis](https://github.com/jayapriya054/Ecommerce-and-Web-Analytics-using-SQL/blob/main/3.Company's%20Performance%20data%20Analysis%20.sql)
-1.To tell the story of the company growth using trended performance data.
-2.Analyse current performance and use available data to assess upcoming opportunities.
+1. To tell the story of the company growth using trended performance data.
+2. Analyse current performance and use available data to assess upcoming opportunities.
 
 ## Conclusion
 This project illustrates making use of SQL to analyzing and optimizing the Ecommerce databases for efficient Ecommerce and web analytucs. The use of Joints, Aggregate Functions, Temporary Tables, Triggers and  SQL Views to analyse and optimize the Ecommerce database for efficient website performance which in turn improves the sales of the business using insights drawn and providing recommendations.
