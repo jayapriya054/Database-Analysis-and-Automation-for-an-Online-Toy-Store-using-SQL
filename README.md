@@ -19,7 +19,7 @@ Traffic Analysis helps to understanding where the customers are coming from and 
 USE CASES:
 1. Analysing search data and investing in the campaigns that gives stronges CVR conversion rates.
 2. Comparing user behaviour pattern across traffic sources to inform creative strategy.
-3. Identifying opportunities to identify the wasted spend by company /sacel high conversion traffic.
+3. Identifying opportunities to identify the wasted spend by company /scale high conversion traffic.
 
 ## [Website Performance Analysis](https://github.com/jayapriya054/Ecommerce-and-Web-Analytics-using-SQL/blob/main/2.Website%20performance%20Analysis.sql)
 Website Performance analysis is performed to understand which pages are seen the most by users, to identify where to focus on improving the business
