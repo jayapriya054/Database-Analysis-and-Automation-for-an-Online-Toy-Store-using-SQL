@@ -22,7 +22,7 @@ USE CASES:
 3. Identifying opportunities to identify the wasted spend by company /scale high conversion traffic.
 
 ## [Website Performance Analysis](https://github.com/jayapriya054/Ecommerce-and-Web-Analytics-using-SQL/blob/main/2.Website%20performance%20Analysis.sql)
-Website Performance analysis is performed to understand which pages are seen the most by users, to identify where to focus on improving the business
+Website Performance analysis is performed to understand which pages are seen the most by users, to identify where to focus on improving the business. A/B Testing and funnel conversion are adopted in analysing website performance.
 
 USE CASES:
 1. Finding the most viewed pages by the customers.
