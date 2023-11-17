@@ -37,7 +37,7 @@ USE CASES:
 2. Monitoring the impact of adding a new product to product portfolio.
 3. Watching product sales trends to understand overall health of business.
 
-## [User Analysis](https://github.com/jayapriya054/Ecommerce-and-Web-Analytics-using-SQL/blob/main/5.User%20Analysis.sql)
+## [User Behaviour Analysis](https://github.com/jayapriya054/Ecommerce-and-Web-Analytics-using-SQL/blob/main/5.User%20Analysis.sql)
 To understand user behaviour and identify some most valueable customers.
 
 USE CASES:
