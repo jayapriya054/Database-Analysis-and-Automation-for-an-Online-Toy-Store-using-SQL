@@ -1,4 +1,4 @@
-# Ecommerce-Database-Analytics and automation for a Maxe Toy Company using-SQL
+# Ecommerce-Database-Analytics-using-SQL
 
 ## Introduction
 The project involves advanced SQL queries to explore, analyze and optimize Ecommerce database (contains around 1 million record) for an Ecommerce company using MySQL Workbench. 
